@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I’m passionate about coding, Roblox development,
 
 ---
 
-
-
 ## 🔄 Currently Working On
 ![JavaScript](https://img.shields.io/badge/Project-Discord%20Bot-blue?style=for-the-badge&logo=discord&logoColor=fff)
 ![Lua](https://img.shields.io/badge/Project-Roblox%20Game-red?style=for-the-badge&logo=roblox&logoColor=fff)
@@ -27,6 +25,12 @@ Welcome to my GitHub profile! I’m passionate about coding, Roblox development,
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+
+---
+
+## 📈 GitHub Activity & Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2k937&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2k937&layout=compact&theme=radical)
 
 ---
 
